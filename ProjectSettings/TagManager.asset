@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerBulletDisableCollider
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 2161220615
+    locked: 0
+  - name: EnemyPlateBase
+    uniqueID: 494076231
+    locked: 0
+  - name: EnemyPlate
+    uniqueID: 3043378375
+    locked: 0
+  - name: Enemy
+    uniqueID: 3691744025
+    locked: 0
+  - name: PlayerCharacter
+    uniqueID: 1333459009
+    locked: 0
+  - name: ScoreItem
+    uniqueID: 999540821
+    locked: 0
+  - name: Effect
+    uniqueID: 2188270067
+    locked: 0
